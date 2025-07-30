@@ -1,0 +1,7 @@
+Used for generating PDF receipts for the fee payments.
+Version 4.2.0 is a stable release.
+reportlab==4.2.0
+
+Provides a calendar widget for easy date selection in the UI.
+Version 1.6.1 is a widely used and stable version.
+tkcalendar==1.6.1
